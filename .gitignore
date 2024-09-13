@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore environment directories
+.venv/
+.idea/
+*.iml
+
+# Ignore local configuration files
+*.env
